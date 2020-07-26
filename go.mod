@@ -1,5 +1,5 @@
 // +heroku goVersion go1.14
-// +heroku install ./main/... ./... .
+// +heroku install ./main/... .
 
 module github.com/edwinnduti/gowebsite.git
 
