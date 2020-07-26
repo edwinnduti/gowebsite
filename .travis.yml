@@ -5,8 +5,3 @@ go:
 - "1.10"
 - 1.11.x
 - master
-
-deploy:
-  provider: heroku
-  api_key:
-    secure: "811effd8-0726-4bfc-a378-52955414e7c3"
