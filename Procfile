@@ -1,1 +1,1 @@
-web: gowebsite
+web: main
